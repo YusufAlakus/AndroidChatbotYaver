@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yaver</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="login">Giriş Yap</string>
+    <string name="password">Şifre</string>
+    <string name="not_yet_registered_sign_up">Henüz kayıtlı değil misiniz? Kayıt Olun</string>
+    <string name="sign_up">Kayıt Ol</string>
+    <string name="name">Ad</string>
+    <string name="email">E-posta</string>
+    <string name="already_an_user_login">Zaten bir kullanıcı mısınız? Giriş Yapın</string>
+    <string name="write_here">Buraya yazın</string>
+    <string name="welcome">Yaver\'e Hoşgeldiniz!\nHer şeyi sorun</string>
+</resources>
